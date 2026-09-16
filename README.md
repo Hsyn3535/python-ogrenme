@@ -1,0 +1,2 @@
+# python-ogrenme
+Surec
